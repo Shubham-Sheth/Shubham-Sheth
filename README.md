@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Shubham-Sheth
-- 👀 I’m interested in Frontend Development 
+- 👀 I’m interested in Frontend Development and App Development
+- 👀 I'm also into UX Research and writing content about the same
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on FrontEnd Projects
 - 📫 You can reach me on @scarbluu@gmail.com
